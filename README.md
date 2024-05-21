@@ -1,5 +1,12 @@
+
+
+
+
+
 Proje Açıklaması
-Saglik-Takip-Sistemi, kullanıcıların sağlık bilgilerini kaydedip izlemelerine olanak tanıyan bir platformdur. Bu sistem, sağlık verileri, doktor randevuları ve tedavi planları gibi bilgileri düzenlemeyi amaçlar. Kullanıcı dostu arayüzü ile kolay erişim ve güncelleme sağlar.
+Saglik-Takip-Sistemi, kullanıcıların sağlık bilgilerini kaydedip izlemelerine olanak tanıyan bir platformdur. 
+Bu sistem, sağlık verileri, doktorrandevuları ve tedavi planları gibi bilgileri düzenlemeyi amaçlar. 
+Kullanıcı dostu arayüzü ile kolay erişim ve güncelleme sağlar.
 
 Özellikler
 Sağlık bilgileri kaydı
