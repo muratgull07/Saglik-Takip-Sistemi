@@ -1,21 +1,4 @@
 
-
-
-
-
-Proje Açıklaması
-Saglik-Takip-Sistemi, kullanıcıların sağlık bilgilerini kaydedip izlemelerine olanak tanıyan bir platformdur. 
-Bu sistem, sağlık verileri, doktorrandevuları ve tedavi planları gibi bilgileri düzenlemeyi amaçlar. 
-Kullanıcı dostu arayüzü ile kolay erişim ve güncelleme sağlar.
-
-Özellikler
-Sağlık bilgileri kaydı
-Doktor randevu takibi
-Tedavi planları yönetimi
-Kullanıcı dostu arayüz
-Ekran görüntüleri
-
-
 ![Ekran görüntüsü 2024-05-06 160343](https://github.com/muratgull07/Saglik-Takip-Sistemi/assets/148050387/4441c0e4-40df-4b22-9735-43fa5e8adf4c)
 
 
