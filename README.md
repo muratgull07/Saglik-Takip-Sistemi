@@ -1,3 +1,7 @@
+/ Kişisel Sağlık Takip Uygulamamız da öncelikle Ad Soyad, Yaş ve Cinsiyet Bilgileri alınır. Ardından sağlık verisi eklenir ve sonra egzersiz eklenir. Ve kayıt eklenir. En son olarak da Rapor oluşturulur ve görüntülenebilir.
+
+** Hoş Geldin Ekranı
+
 
 ![Ekran görüntüsü 2024-05-06 160343](https://github.com/muratgull07/Saglik-Takip-Sistemi/assets/148050387/4441c0e4-40df-4b22-9735-43fa5e8adf4c)
 
